@@ -19,4 +19,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # Licence
 MIT
 
-# 1
