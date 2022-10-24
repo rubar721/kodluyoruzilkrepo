@@ -1,6 +1,6 @@
 
 # Kodluyoruz İlk Repo
-MÜ - [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) & [Patika.dev](https://app.patika.dev/paths) | Yazılıma Başlangıç Programı Eğitimi kapsamında açtığım ilk repo. içinde bir adet README dosyası bir adet de index.html dosyası barındırmaktadır.
+MÜ - [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) & [Patika.dev](https://app.patika.dev/paths) | Yazılıma Başlangıç Programı Eğitimi kapsamında açtığım ilk repo. İçinde bir adet README dosyası bir adet de index.html dosyası barındırmaktadır.
 
 ![Görsel](https://yunti.files.wordpress.com/2016/02/manzara_05_tam35-blogspot-com.jpg)
 
@@ -24,3 +24,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # Licence
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
